@@ -3,7 +3,7 @@
 * 🗣 You can call me Jon
 * 🤖 I love Telegram chatbots and I teach people how to create them with my YouTube step by step video tutorials. 
 * 💼 I'm currently working on frontend development using Vue and data manipulation with Pentaho Data Integration
-* 📱 I'm the creator and mainteiner of TremdGol Free, a live soccer statistics app for Android. [Playstore download link](https://play.google.com/store/apps/details?id=com.bolanarede.tremdgol_free)
+* 📱 I'm the creator and mainteiner of TremdGol Free, a live soccer statistics app for Android. <a href="https://play.google.com/store/apps/details?id=com.bolanarede.tremdgol_free" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" height="18em"  target="_blank"></a>  
 * 🙂 I'm looking to collaborate on web and mobile development, and also interested in automation with Google Apps Script. 
 * 📚 I'm currently learning GraphQL and Redux.
 
@@ -81,12 +81,14 @@ Front end angular
 <!-- -  I have others soccer statistics projects released that I'm working to swith to public repositories. -->
 
 ## 
-<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvictorjs&layout=compact&langs_count=7&theme=dracula"/> 
 
-<div> 
-  <a href="https://www.youtube.com/user/jvwrCIN" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/jvictor_js" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-ramos-6570a21b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div>
+<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvictorjs&layout=compact&langs_count=7&theme=dracula"/> 
+ 
+  <a href="https://www.youtube.com/user/jvwrCIN" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="30em" target="_blank"></a>
+  <a href="https://twitter.com/jvictor_js" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="30em"  target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-ramos-6570a21b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30em" target="_blank"></a> 
+  <a href=" https://play.google.com/store/apps/developer?id=bolanarede.net.br" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" height="30em"  target="_blank"></a> 
 </div>
 
 ##
