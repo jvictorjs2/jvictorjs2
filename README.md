@@ -1,3 +1,10 @@
+<!-- usefull links: 
+https://github.com/rafaballerini/PerfilGithub
+https://devicon.dev/ 
+https://github.com/anuraghazra/github-readme-stats
+https://dev.to/envoy_/150-badges-for-github-pnk
+https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
+-->
 ## Hi, I'm João Victor, software developer and content creator for YouTube.
 
 * 🗣 You can call me Jon (he/him)
