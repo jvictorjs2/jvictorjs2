@@ -1,6 +1,6 @@
 ## Hi, I'm João Victor, software developer and content creator for YouTube.
 
-* 🗣 You can call me Jon
+* 🗣 You can call me Jon (he/him)
 * 🤖 I love Telegram chatbots and I teach people how to create them with my YouTube step by step video tutorials. 
 * 💼 I'm currently working on frontend development using Vue and data manipulation with Pentaho Data Integration
 * 📱 I'm the creator and mainteiner of [TremdGol Free](https://play.google.com/store/apps/details?id=com.bolanarede.tremdgol_free), a live soccer statistics app for Android. 
